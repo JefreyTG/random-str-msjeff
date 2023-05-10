@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msjeff",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JefreyTG/random-str-msjeff"
+  },
+  "keywords": [],
+  "author": "Jefrey Ternera Gutiérrez",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/JefreyTG/random-str-msjeff",
+  "bin": {
+    "random-str-msjeff": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
